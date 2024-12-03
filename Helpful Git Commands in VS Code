@@ -1,3 +1,8 @@
-
-In VS Code, open Git options by hitting CTRL + Shift + P and typing "git"
+--1.  In Search Bar, hit Ctrl + Shift + P to allow for commands
+--2.  Here are some git commands that should lead to what is needed:
+      
+        setting the url:  git remote set-url origin {your-new-url
+        adding multipe remotes:  git remote add origin {your-new-url}
+        remove repository:  git remote remove {name of git repository}
+        add repository:  git remote add {url of git repository}
 
